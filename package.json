@@ -1,0 +1,19 @@
+{
+  "name": "learnning-eng",
+  "version": "1.0.0",
+  "description": "Learning English",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hiepnm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiepnm93/learnning_english.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hiepnm93/learnning_english/issues"
+  },
+  "homepage": "https://github.com/hiepnm93/learnning_english#readme"
+}
